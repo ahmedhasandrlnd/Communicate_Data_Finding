@@ -1,5 +1,7 @@
 # Communicate_Data_Finding
 
+![Slides](slides.gif)
+
 ## Dataset used 
 [FordGoBike](https://www.lyft.com/bikes/bay-wheels/system-data)
 
