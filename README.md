@@ -21,12 +21,12 @@ Interesting observations:
 * Duration, distance, start time (day, month, hour) seem most useful features in explanatory analysis later.
 * Trip data are anonymized. So all user personal information (e.g. age, gender etc) are removed in this data.
 
-For more details and code, check the `exploratory_data_analysis.ipynb` notebook.
+For more details and code, check the `Exploratory_Data_Analysis.ipynb` notebook and corresponding report.
 
 ## Summary of Explanatory Data Analysis
 There are two types of clients using the system: Subscribers and Customers. Subscribers are primarily daily commuters, having short trips to and from work, who rent a bike on weekdays at 8-9am and 5-6pm. Customers are usually tourists or occasional riders who use the system mainly on weekends to explore the Bay Area. In 2019, some commuter subscribers seem to withdraw their membership and tend to use the bike service as non-member customers as indicated in customer vs subscriber proportion and rush hour patterns by user type and start day graphs. 
 
-For more details and code, check the `explanatory_data_analysis.ipynb` notebook.
+For more details and code, check the `Explanatory_Data_Analysis.ipynb` notebook and corresponding report.
 
 ## References
 * [Ford GoBike System Data](https://www.lyft.com/bikes/bay-wheels/system-data)
