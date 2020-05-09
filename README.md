@@ -29,9 +29,9 @@ There are two types of clients using the system: Subscribers and Customers. Subs
 For more details and code, check the `explanatory_data_analysis.ipynb` notebook.
 
 ## References
-[Ford GoBike System Data](https://www.lyft.com/bikes/bay-wheels/system-data)
-[Plot two histograms on single chart with matplotlib](https://stackoverflow.com/questions/6871201/plot-two-histograms-on-single-chart-with-matplotlib)
-[Calculate distance between Lat/long points](https://www.movable-type.co.uk/scripts/latlong.html)
-[Pandas legend for scatter matrix](https://stackoverflow.com/questions/43801637/pandas-legend-for-scatter-matrix)
-[Pie Chart Demo](https://matplotlib.org/3.2.1/gallery/pie_and_polar_charts/pie_demo2.html#sphx-glr-gallery-pie-and-polar-charts-pie-demo2-py)
-[Slide Deck Tutorial](https://github.com/chelseymarie6/Communicate-Data-Findings/blob/master/Communicate_Data_Slide_Deck.ipynb)
+* [Ford GoBike System Data](https://www.lyft.com/bikes/bay-wheels/system-data)
+* [Plot two histograms on single chart with matplotlib](https://stackoverflow.com/questions/6871201/plot-two-histograms-on-single-chart-with-matplotlib)
+* [Calculate distance between Lat/long points](https://www.movable-type.co.uk/scripts/latlong.html)
+* [Pandas legend for scatter matrix](https://stackoverflow.com/questions/43801637/pandas-legend-for-scatter-matrix)
+* [Pie Chart Demo](https://matplotlib.org/3.2.1/gallery/pie_and_polar_charts/pie_demo2.html#sphx-glr-gallery-pie-and-polar-charts-pie-demo2-py)
+* [Slide Deck Tutorial](https://github.com/chelseymarie6/Communicate-Data-Findings/blob/master/Communicate_Data_Slide_Deck.ipynb)
